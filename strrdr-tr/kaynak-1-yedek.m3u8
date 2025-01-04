@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:304
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXTINF:6.000000,
+https://a.cf-worker-4e1da3ddd26870a5.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/601/streamradar_buraya_gel_len_71724d3e_hd_304.ttf
+#EXTINF:6.000000,
+https://a.cf-worker-4e1da3ddd26870a5.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/601/streamradar_buraya_gel_len_71724d3e_hd_305.ttf
+#EXTINF:6.000000,
+https://a.cf-worker-4e1da3ddd26870a5.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/601/streamradar_buraya_gel_len_71724d3e_hd_306.ttf
+#EXTINF:6.000000,
+https://a.cf-worker-4e1da3ddd26870a5.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/601/streamradar_buraya_gel_len_71724d3e_hd_307.ttf
+#EXTINF:6.000000,
+https://a.cf-worker-4e1da3ddd26870a5.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/601/streamradar_buraya_gel_len_71724d3e_hd_308.ttf
